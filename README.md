@@ -21,6 +21,13 @@ Os conteúdos vão desde conceitos básicos até pequenos projetos, com o objeti
 
 
 
+## | Tecnologias utilizadas
+
+- Python  
+- Google Colab  
+
+
+
 ## | Conteúdos estudados
 
 Durante os exercícios, foram trabalhados:
@@ -43,13 +50,6 @@ Durante os exercícios, foram trabalhados:
 - `Tupla.ipynb` → Uso de tuplas  
 - `Código_sem_modularização.ipynb` → Código sem divisão em funções  
 - `Projeto_Final.ipynb` → Projeto final aplicando os conceitos
-
-
-
-## | Tecnologias utilizadas
-
-- Python  
-- Google Colab  
 
 
 
