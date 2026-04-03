@@ -52,6 +52,5 @@ Este repositório representa minha evolução no aprendizado de Python, desde ex
 
 
 ## | Autora
-
-Giovanna Galichio  
-Estudante de Análise e Desenvolvimento de Sistemas  
+- Giovanna Galichio  
+ 
