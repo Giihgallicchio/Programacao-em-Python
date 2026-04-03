@@ -38,7 +38,13 @@ Durante os exercícios, foram trabalhados:
 - `Manipulação_de_string.ipynb` → Trabalhos com strings  
 - `Tupla.ipynb` → Uso de tuplas  
 - `Código_sem_modularização.ipynb` → Código sem divisão em funções  
-- `Projeto_Final.ipynb` → Projeto final aplicando os conceitos  
+- `Projeto_Final.ipynb` → Projeto final aplicando os conceitos
+
+
+## | Tecnologias utilizadas
+
+- Python  
+- Google Colab  
 
 
 ## | Destaque
