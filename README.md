@@ -1,16 +1,16 @@
-#  Programação em Python
+# | Programação em Python
 
 Repositório com exercícios e projetos desenvolvidos durante meus estudos de Python no SENAI.
 
 
-##  Sobre
+## | Sobre
 
 Este repositório reúne atividades práticas focadas no aprendizado de lógica de programação utilizando Python.
 
 Os conteúdos vão desde conceitos básicos até pequenos projetos, com o objetivo de desenvolver raciocínio lógico e organização de código.
 
 
-##  Objetivo
+## | Objetivo
 
 - Aprender lógica de programação  
 - Praticar a sintaxe do Python  
@@ -18,7 +18,7 @@ Os conteúdos vão desde conceitos básicos até pequenos projetos, com o objeti
 - Evoluir na construção de projetos  
 
 
-##  Conteúdos estudados
+## | Conteúdos estudados
 
 Durante os exercícios, foram trabalhados:
 
@@ -30,7 +30,7 @@ Durante os exercícios, foram trabalhados:
 - Lógica de programação  
 
 
-##  Estrutura do Projeto
+## | Estrutura do Projeto
 
 - `Condicional.ipynb` → Exercícios com estruturas condicionais  
 - `FOR.ipynb` → Estruturas de repetição com for  
@@ -41,17 +41,17 @@ Durante os exercícios, foram trabalhados:
 - `Projeto_Final.ipynb` → Projeto final aplicando os conceitos  
 
 
-##  Destaque
+## | Destaque
 
 O arquivo **Projeto_Final.ipynb** reúne a aplicação prática dos conceitos aprendidos ao longo dos estudos.
 
 
-##  Evolução
+## | Evolução
 
 Este repositório representa minha evolução no aprendizado de Python, desde exercícios básicos até aplicações mais estruturadas.
 
 
-## 👩‍💻 Autora
+## | Autora
 
 Giovanna Galichio  
 Estudante de Análise e Desenvolvimento de Sistemas  
